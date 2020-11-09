@@ -1,0 +1,19 @@
+
+
+
+.ORIGAMI{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        background-color:#00ffff
+
+
+}
+h1{display: flex;
+    justify-content: space-evenly;
+        background-color: #7fffd4;
+}
+p{
+        margin-left: 20px ;
+        padding-left: 20px;
+}
